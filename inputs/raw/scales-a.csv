@@ -1,0 +1,4 @@
+row_id,revision,vehicle,trip,side,weight,at,ref
+1,1,V-heavy,T1,gross,100.000,2026-10-01T08:00:00+08:00,2
+3,1,V-heavy,T2,gross,20.000,2026-10-01T09:00:00+08:00,4
+5,1,V-other,T3,tare,5.000,2026-10-01T10:00:00+08:00,

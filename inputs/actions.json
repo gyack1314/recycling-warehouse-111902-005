@@ -1,0 +1,15 @@
+[
+  {
+    "step": 1,
+    "table": "revisions",
+    "op": "append",
+    "row": {
+      "device": "A",
+      "boot": "B1",
+      "row_id": "5",
+      "revision": 2,
+      "cancels_revision": 1,
+      "kind": "cancel"
+    }
+  }
+]

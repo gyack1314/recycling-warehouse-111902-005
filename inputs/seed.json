@@ -1,0 +1,26 @@
+{
+  "delivery_files": [
+    {
+      "file": "raw/scales-a.csv",
+      "encoding": "utf-8",
+      "device": "A",
+      "boot": "B1"
+    },
+    {
+      "file": "raw/scales-b.csv",
+      "encoding": "gb18030",
+      "device": "A",
+      "boot": "B1"
+    }
+  ],
+  "revisions": [
+    {
+      "device": "A",
+      "boot": "B1",
+      "row_id": "2",
+      "revision": 2,
+      "cancels_revision": 1,
+      "kind": "cancel"
+    }
+  ]
+}
